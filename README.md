@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Feda Alnafisah!
 
 <!--
 **fedamousa/fedamousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a recent IT graduate with a passion for DevOps and system optimization. I have hands-on experience in infrastructure, database management, and
+cloud platforms like AWS. I'm always eager to learn new technologies and collaborate on projects that solve real-world problems.
+Feel free to check out my repositories and connect with me!✨
+
+
